@@ -1,0 +1,16 @@
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Java / Maven
+backend/target/
+
+# Local environment
+.env
+*.log
+.idea/
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
